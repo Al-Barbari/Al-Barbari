@@ -22,7 +22,8 @@ I’m open to working on exciting projects related to:
 
 ✅ Open-Source Contributions
 
-📫 How to Reach Me
+📫 How to Reach Me 
+
 📧 Email: Abdulelahalbarbari01gmail.com
 💼 LinkedIn: https://ye.linkedin.com/in/abdulelah-albarbari
 
