@@ -33,4 +33,5 @@ I’m open to working on exciting projects related to:
 
 
 ⚡ Fun Fact
+
 When I'm not coding, you can find me exploring new tech trends, gaming, or enjoying a good cup of coffee! ☕
