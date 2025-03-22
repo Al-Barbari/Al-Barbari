@@ -1,10 +1,13 @@
 👋 Hi, I’m Abdulelah Al-Barbari
+
 🚀 Software Developer | Full-Stack .NET & Angular Enthusiast
 
 👀 About Me
+
 I'm passionate about Back-End Development and love building scalable, efficient, and high-performing applications. With a strong focus on .NET and Angular, I enjoy solving complex problems and continuously expanding my skill set.
 
 🌱 Currently Learning
+
 I'm always exploring new technologies to enhance my expertise. Right now, I'm diving deeper into:
 
 . Advanced .NET Development
@@ -25,6 +28,7 @@ I’m open to working on exciting projects related to:
 📫 How to Reach Me 
 
 📧 Email: Abdulelahalbarbari01gmail.com
+
 💼 LinkedIn: https://ye.linkedin.com/in/abdulelah-albarbari
 
 
