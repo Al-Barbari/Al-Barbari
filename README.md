@@ -27,7 +27,7 @@ I’m open to working on exciting projects related to:
 
 📫 How to Reach Me 
 
-📧 Email: Abdulelahalbarbari01gmail.com
+📧 Email: abdulelahalbarbari1@gmail.com
 
 💼 LinkedIn: https://ye.linkedin.com/in/abdulelah-albarbari
 
