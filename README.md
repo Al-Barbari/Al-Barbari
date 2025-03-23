@@ -1,6 +1,6 @@
 👋 Hi, I’m Abdulelah Al-Barbari
 
-🚀 Software Developer | Full-Stack .NET & Angular Enthusiast
+🚀 Software Developer | Full-Stack .NET & Angular Developer
 
 👀 About Me
 
