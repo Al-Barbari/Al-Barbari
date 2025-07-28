@@ -30,8 +30,3 @@ I’m open to working on exciting projects related to:
 📧 Email: abdulelahalbarbari1@gmail.com
 
 💼 LinkedIn: https://ye.linkedin.com/in/abdulelah-albarbari
-
-
-⚡ Fun Fact
-
-When I'm not coding, you can find me exploring new tech trends, gaming, or enjoying a good cup of coffee! ☕
